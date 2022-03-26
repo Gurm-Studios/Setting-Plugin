@@ -1,0 +1,4 @@
+name: Setting_Plugin
+main: net.gurm.minecraft.server.plugin.Main
+version: 0.0.0.0.0.0.1
+author: SOBI
