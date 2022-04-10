@@ -1,4 +1,9 @@
-name: Setting_Plugin
-main: net.gurm.minecraft.server.plugin.Main
-version: 0.0.0.0.0.0.1
-author: SOBI
+name: Stat_Pluign
+main: net.gurm.studios.stat.plugin.Main
+version: 1.7.10
+api-version: 1.12.2
+commands:
+  스텟:
+    aliases: stat
+  시작:
+    aliases: start
