@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5CEYE2)
+
 <h1 align="middle">Setting-Plugin</h1>
 
 <h4 align="middle">RPG 서버에 사용될 플러그인 소스코드</h4>
